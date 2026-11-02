@@ -1,0 +1,22 @@
+{
+  "wheel_id": 665,
+  "structure": "umbrella",
+  "slug": "northshorekitchenrenovation-com-103",
+  "project": "kitchen-renovations-north-shore-budget-tips-48a056dec65a8a1bbb0",
+  "parent_t1_ref": "northshorekitchenrenovation-com-151",
+  "node_role": "feeder",
+  "money_target": "northshorekitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations north shore budget tips",
+  "intended_url": "https://sitesau.github.io/northshorekitchenrenovation-com-103/",
+  "tier": "T2",
+  "writeback_nonce": "14de0d4aba769d6b",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/kitchen-renovations-north-shore-faq-60e1684712a7d73a8c89450717a/",
+      "anchor": "kitchen renovations north shore faq explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
